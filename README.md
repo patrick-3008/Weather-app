@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A weather flutter application. Provide the the country that you want to get the weather of it. This application uses BLoC pattern and provider as a state management.
 
 ## Getting Started
 
